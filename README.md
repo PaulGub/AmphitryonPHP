@@ -1,4 +1,4 @@
-# AmphitryonPHP
+# amphitryon-php
 
 ### Projet réalisé lors de mon BTS SIO (en équipe)
 
